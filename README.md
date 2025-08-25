@@ -1,4 +1,6 @@
+<img src="https://github.com/AlisonMacFadyen/AlisonMacFadyen/blob/main/banner.png" alt="Banner photo of Loch Etive and the hills in the background.">
 ## Hi there 👋
+
 
 <!--
 **AlisonMacFadyen/AlisonMacFadyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
