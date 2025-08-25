@@ -17,7 +17,7 @@ PhD scientist with expertise in molecular microbiology and genomics, building so
 - Languages: Python, Bash
 - Workflow management: Snakemake, learning Nextflow
 - Containerisation: Experienced with Singularity, currently learning Docker
-- DevOps Culture: Studying CI/CD, Cloud Computing, Infrastructure as Code through IBM Coursera course
+- DevOps Practices: Studying CI/CD, Cloud Computing, Infrastructure as Code through IBM Coursera course
 - Planned implementations: GitLab CI/CD and Docker containerisation for current projects
 
 **Research computing experience**:
@@ -29,15 +29,3 @@ PhD scientist with expertise in molecular microbiology and genomics, building so
 ## Everything Else
 
 I enjoy knitting and crocheting.  If I don't have a pair of socks as a work in progress, then there is something wrong with me.  Love sock knitting!  I have two dogs who I enjoy walking.  I also volunteer for the RNLI as inshore lifeboat crew and I am currently Tier 1 crew.
-
-## Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alisonmacfadyen&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Alison MacFadyen's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alisonmacfadyen&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Alison MacFadyen's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonmacfadyen&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Alison MacFadyen's Most Used Languages" />
-</div>
-
-<hr>
